@@ -2,7 +2,7 @@
 
 A self-hosted suite for a Raspberry Pi, Linux mini PC, and independent tablet/browser sessions. **This version includes the Global Watch globe.** It replaces the limited 1.0 feed-only distribution.
 
-#Screenshot
+# Screenshots
 <img width="2304" height="1440" alt="1000040240" src="https://github.com/user-attachments/assets/dcc1fca2-6f44-4c65-aecb-4ca59a1f74f4" />
 <img width="1408" height="970" alt="6d685a55-1af4-4aab-ac39-feb7381f7928-1_all_8208" src="https://github.com/user-attachments/assets/4e5928c1-fbd1-45f5-b91e-669328c8caed" />
 <img width="1586" height="992" alt="1000040264" src="https://github.com/user-attachments/assets/f5b9eed8-f603-4634-a06b-4f128471b6f3" />
