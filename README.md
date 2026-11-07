@@ -1,14 +1,4 @@
 # BLACKWATCH Community Suite 2.0
-##Screenshot
-<img width="1408" height="970" alt="6d685a55-1af4-4aab-ac39-feb7381f7928-1_all_8208" src="https://github.com/user-attachments/assets/c4e7c30b-fe5c-4e04-b570-239e5eed336f" />
-<img width="2304" height="1440" alt="1000040258" src="https://github.com/user-attachments/assets/81a40da4-5629-4c22-8632-2e546a9a7eb9" />
-<img width="2304" height="1440" alt="1000040260" src="https://github.com/user-attachments/assets/6923d463-b866-474e-9dc7-be64f5887a3c" />
-<img width="1586" height="992" alt="1000040262" src="https://github.com/user-attachments/assets/a790adc6-79e7-4fba-b990-86812212fd9f" />
-<img width="1586" height="992" alt="1000040263" src="https://github.com/user-attachments/assets/d233422a-0ffa-4fcd-9672-fc7ba6feda2c" />
-<img width="1586" height="992" alt="1000040264" src="https://github.com/user-attachments/assets/9d102d97-a48f-42d6-b3de-56243d2c44a5" />
-<img width="1586" height="992" alt="1000040266" src="https://github.com/user-attachments/assets/356f8951-25ad-40c4-addd-ee37e8c99bb9" />
-<img width="1586" height="992" alt="1000040269" src="https://github.com/user-attachments/assets/cce5f3e9-9295-48fd-a7d5-4604ac2d3988" />
-<img width="1586" height="992" alt="1000040268" src="https://github.com/user-attachments/assets/684e3440-5d99-4dea-a8ad-f81210ba8537" />
 
 A self-hosted suite for a Raspberry Pi, Linux mini PC, and independent tablet/browser sessions. **This version includes the Global Watch globe.** It replaces the limited 1.0 feed-only distribution.
 
