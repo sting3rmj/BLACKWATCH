@@ -1,4 +1,13 @@
 # BLACKWATCH Community Feed Edition
+## Screenshots
+<img width="2304" height="1440" alt="1000040254" src="https://github.com/user-attachments/assets/891e07d9-8231-46a8-826f-7ba6fc6ead30" />
+<img width="1408" height="970" alt="6d685a55-1af4-4aab-ac39-feb7381f7928-1_all_8208" src="https://github.com/user-attachments/assets/47cf5387-7f28-4e66-9c86-ecb93744f658" />
+<img width="2304" height="1440" alt="1000040244" src="https://github.com/user-attachments/assets/a8a9c7e2-7398-422d-94a7-3c7c2cb50c6c" />
+<img width="2304" height="1440" alt="1000040250" src="https://github.com/user-attachments/assets/bf7bef90-84db-4810-b9cd-481c155952c3" />
+<img width="2304" height="1440" alt="1000040252" src="https://github.com/user-attachments/assets/29fca5f9-9a67-4759-bb68-9b5197abbe45" />
+<img width="2304" height="1440" alt="1000040243" src="https://github.com/user-attachments/assets/e10cf7af-9da1-4e92-9c0d-c3d4b51001d2" />
+<img width="2304" height="1440" alt="1000040240" src="https://github.com/user-attachments/assets/227a2b88-0989-448d-ab60-840ff6967028" />
+
 
 A self-hosted, tablet-friendly dashboard for your own ADS-B receiver and local dispatch feeds.
 
