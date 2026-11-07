@@ -4,10 +4,7 @@ A self-hosted suite for a Raspberry Pi, Linux mini PC, and independent tablet/br
 
 ##Screenshot
 <img width="2304" height="1440" alt="1000040240" src="https://github.com/user-attachments/assets/dcc1fca2-6f44-4c65-aecb-4ca59a1f74f4" />
-#<img width="1080" height="2340" alt="6d685a55-1af4-4aab-ac39-feb7381f7928-1_all_8210" src="https://github.com/user-attachments/assets/a54bc520-8a2a-4af3-9852-ec5d66408d08" />
 <img width="1408" height="970" alt="6d685a55-1af4-4aab-ac39-feb7381f7928-1_all_8208" src="https://github.com/user-attachments/assets/4e5928c1-fbd1-45f5-b91e-669328c8caed" />
-#<img width="1586" height="992" alt="1000040266" src="https://github.com/user-attachments/assets/ca35c298-54cf-45f6-8db8-64eb9d3a0b95" />
-<img width="1586" height="992" alt="1000040263" src="https://github.com/user-attachments/assets/e501ec75-d2b6-4355-aac4-f4de2139a09d" />
 <img width="1586" height="992" alt="1000040264" src="https://github.com/user-attachments/assets/f5b9eed8-f603-4634-a06b-4f128471b6f3" />
 <img width="2304" height="1440" alt="1000040254" src="https://github.com/user-attachments/assets/c290defc-6812-4973-b898-513239fa3515" />
 <img width="2304" height="1440" alt="1000040252" src="https://github.com/user-attachments/assets/99575401-f12a-4181-8a25-2f92e4d4cbe5" />
